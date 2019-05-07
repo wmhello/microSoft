@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/order/order",
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00f",
+    "navigationBarTitleText": "我的微信小程序",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar":{
+     "selectedColor": "#d53e37",   
+  }
+}
